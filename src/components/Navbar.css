@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    font-family:  sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100px;
+    left: 0;
+    border: 0px solid black;
+    display: flex;
+    background: #fff;
+    bottom: 0;
+    box-shadow: 0 -3px  5px #0001;
+}
+.container img{
+    margin-left: 20px;
+}
+.container .ul1{
+    color: #0065ed;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin-left: 120px;
+}
+.container li{
+    margin: 0px 30px ;
+    cursor: pointer;
+}
+.container button{
+    cursor: pointer;
+    background: #0065ed;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    margin: 33px;
+    margin-left: 80px;
+}
+.container .btn1{
+    cursor: pointer;
+    width: 75px;
+    height: 40px;
+}
+.container .btn2{
+    cursor: pointer;
+    width: 75px;
+    height: 40px;
+}
+.ion1{
+    color: #0065ed;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.ion2{
+    color: #0065ed;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.part{
+    width: 100%;
+    height: 50%;
+    background-image: url(./assets/rouchscreen.webp);
+    background-size: cover;
+    background-position: center;
+}
+.part h1{
+    text-align: center;
+    padding-top: 130px;
+    color: #fff;
+}
+.container2{
+    width: 100%;
+    height: 60%;
+    border: 0px solid black;
+    display:flex;
+    align-items: center;
+}
+.bir{
+    background-color: #fff;
+    ;
+    justify-content: space-around;
+    margin-top: 3.7rem;
+    margin-left: 50px;
+}
+.bir img{
+    border-radius: 5px;
+}
+.bir .h2{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+.bir h6{
+    color: #888;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+.ikki{
+    background-color: #fff;
+    ;
+    justify-content: space-around;
+    margin-top: 2rem;
+    margin-left: 90px;
+}
+.ikki img{
+    border-radius: 5px;
+}
+
+.ikki .h2{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+.ikki h6{
+    color: #888;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+.uch{
+    background-color: #fff;
+    ;
+    justify-content: space-around;
+    margin-top: 2rem;
+    margin-left: 90px;
+}
+.uch img{
+    border-radius: 5px;
+}
+
+.uch .h2{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+.uch h6{
+    color: #888;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+h1{
+    text-align: center;
+    padding-top: 13px;
+}
